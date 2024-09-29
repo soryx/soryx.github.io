@@ -500,7 +500,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Noto Sans", sans-serif;
+		font-family: "Noto Sans", Arial;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
