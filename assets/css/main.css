@@ -1841,16 +1841,14 @@ input, select, textarea {
 		#header h1 {
 			position: absolute;
 			left: 1em;
-            top: 0;
-            height: 4em;
-            line-height: 4em;
-            cursor: default;
+			top: 0;
+			height: 4em;
+			line-height: 4em;
+			cursor: default;
 		}
 
 			#header h1 a {
 				font-size: 1.25em;
-				line-height: 1;
-				display: block;
 			}
 
 		#header nav {
